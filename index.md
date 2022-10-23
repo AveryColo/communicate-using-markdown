@@ -8,3 +8,6 @@
 git config --global user.name "Avery C"
 
 ```
+- [ ] Eat porridge
+- [ ] Check beds
+- [ ] Go to sleep
